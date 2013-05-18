@@ -1,0 +1,10 @@
+GIT
+  remote: git://github.com/stephenrjohnson/puppet-polipo.git
+  ref: master
+  sha: 3e331ca200f7b5c885d29f3a0ce86cb2702f7b26
+  specs:
+    polipo (0.0.1)
+
+DEPENDENCIES
+  polipo (>= 0)
+
